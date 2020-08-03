@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   enable-background="new"
+   inkscape:export-filename="C:\Users\trey3\Desktop\CougarRate\icon128.png"
+   inkscape:export-xdpi="32.511963"
+   inkscape:export-ydpi="32.511963"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="drawing2.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient831"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#44ffff;stop-opacity:1;"
+         offset="0"
+         id="stop829" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="140.91707"
+     inkscape:cy="688.21011"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline;mix-blend-mode:normal">
+    <path
+       id="rect1522"
+       style="opacity:1;fill:#35b7e9;fill-opacity:1;stroke:none;stroke-width:14.1835;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 216.28125,372.2832 c -4.78687,0 -8.4082,3.62131 -8.4082,8.40821 v 361.13671 c 0,4.78693 3.62132,8.40821 8.4082,8.40821 h 361.13672 c 4.78692,0 8.4082,-3.62128 8.4082,-8.40821 V 380.69141 c 0,-4.78691 -3.62128,-8.40821 -8.4082,-8.40821 z"
+       transform="scale(0.26458333)" />
+    <path
+       id="rect1522-7"
+       style="display:inline;opacity:1;fill:#007ac3;fill-opacity:1;stroke:none;stroke-width:14.1835;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 583.41797,374.69141 210.2832,747.82617 c 3.4e-4,3.4e-4 -3.4e-4,0.002 0,0.002 1.50364,1.50363 3.60461,2.40821 5.99805,2.40821 h 361.13672 c 4.78692,0 8.4082,-3.62128 8.4082,-8.40821 V 380.69141 c 0,-2.39346 -0.90457,-4.49637 -2.4082,-6 z"
+       transform="scale(0.26458333)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1540"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.666px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;mix-blend-mode:normal;fill:#32323c;fill-opacity:1;stroke:#32323c;stroke-width:11.9313;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       transform="matrix(0.46779632,0,0,0.46779632,-12.918347,-137.68658)"><flowRegion
+         id="flowRegion1542"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.666px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#32323c;fill-opacity:1;stroke:#32323c;stroke-width:11.9313;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"><rect
+           id="rect1544"
+           width="433.57144"
+           height="388.57144"
+           x="153.57143"
+           y="508.23398"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.66644287px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#32323c;fill-opacity:1;stroke:#32323c;stroke-width:11.93125629;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" /></flowRegion><flowPara
+         id="flowPara1546"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.666px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#32323c;fill-opacity:1;stroke:#32323c;stroke-width:11.9313;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">:)</flowPara></flowRoot>
+  </g>
+</svg>

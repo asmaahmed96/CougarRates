@@ -1,0 +1,40 @@
+{
+	"name": "CougarRate",
+	"version": "1.0.0",
+	"description": "RateMyProfessors integration for CSUSM course search",
+	"permissions": [
+		"http://www.ratemyprofessors.com/*",
+		"https://www.ratemyprofessors.com/*"
+    ],
+
+	"content_scripts": [{
+		"matches": ["https://cmsweb.csusm.edu/psp/CSMPRD/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.CLASS_SEARCH.GBL"],
+		"js": ["main.js"],
+		"css": ["style.css"]
+	}],
+
+	"background": {
+		"scripts": [
+			"background.js"
+		],
+		"persistent": false
+	},
+
+	"browser_action": {
+		"default_icon": {
+			"16": "icon16.png",
+			"32": "icon32.png",
+			"64": "icon64.png",
+			"128": "icon128.png"
+		}
+	},
+
+	"icons": {
+		"16": "icon16.png",
+		"32": "icon32.png",
+		"64": "icon64.png",
+		"128": "icon128.png"
+	},
+
+	"manifest_version": 2
+}
